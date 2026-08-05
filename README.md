@@ -1,4 +1,4 @@
-# 🏨 Hospitality Revenue Analysis Dashboard 
+# 🏨 Hospitality Revenue Analysis  
 Interactive Power BI dashboard analyzing hotel booking trends, occupancy, ADR, RevPAR, and revenue performance to support strategic revenue management and business decision-making. The dashboard provides actionable insights that help hospitality businesses optimize pricing, maximize occupancy, and improve revenue management.
 
 # 📌 Business Problem
